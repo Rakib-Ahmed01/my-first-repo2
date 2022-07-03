@@ -1,11 +1,11 @@
 body {
-  background-color: black;
+  background-color: rgb(109, 109, 109);
 }
 
 p {
-  color: deepskyblue;
+  color: rgb(61, 199, 245);
 }
 
 h1 {
-  color: deeppink;
+  color: rgb(243, 148, 199);
 }
